@@ -12,3 +12,5 @@
 ### Сроки выполнения
 Срок вывода продукта на рынок – 3 месяца
 
+### Архитектура
+https://github.com/CrazyFrogs/Document-converter/blob/83dee83ec6b78a3c8d0b8709e7074a150ee2c5b8/docs/architecture.md
