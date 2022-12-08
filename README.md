@@ -14,3 +14,6 @@
 
 ### Архитектура
 https://github.com/CrazyFrogs/Document-converter/blob/83dee83ec6b78a3c8d0b8709e7074a150ee2c5b8/docs/architecture.md
+
+### Процесс
+https://github.com/CrazyFrogs/Document-converter/blob/a7dedf4c1cbe84e4af95e186f4a709c8f2fc1e04/docs/process.md
